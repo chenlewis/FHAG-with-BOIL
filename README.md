@@ -4,6 +4,9 @@
 
 This is the implementation of the method proposed in "Distortion Model based Spectral Augmentation for Generalized Recaptured Document Detection" with pytorch(1.9.0, gpu version). The associated datasets are available upon request.
 
+##Introduction
+In this work, we improve DPAD approaches by addressing two limitations of existing FDA methods. We establish a BOIL method that locates the BOI related to the recapturing operation and propose a FHAG strategy that enhances halftoning features in the BOI.
+
 ## Environment Request
 
 python == 3.10.6  
