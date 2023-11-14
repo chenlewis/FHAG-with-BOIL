@@ -64,5 +64,6 @@ python analyze.py
 
 ## Citation
 
-If you use our code please cite: XXX  
+If you use our code please cite: Changsheng Chen, Bokang Li, Rizhao Cai, Jishen Zeng, and Jiwu Huang, Distortion Model based Spectral Augmentation for Generalized Recaptured Document Detection, in _IEEE Transactions on Information Forensics and Security_, 2023
+
 The datasets presented in our work are available upon request.
