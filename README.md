@@ -7,7 +7,7 @@ This is the implementation of the method proposed in "Distortion Model based Spe
 ## Introduction
 
 In this work, we improve DPAD approaches by addressing two limitations of existing FDA methods. We establish a BOIL method that locates the BOI related to the recapturing operation and propose a FHAG strategy that enhances halftoning features in the BOI.  
-![Image text](https://github.com/chenlewis/FHAG-with-BOIL/blob/main/figures/1.png)
+![Image text](https://github.com/chenlewis/FHAG-with-BOIL/blob/main/figures/2.png)
 
 ## Environment Request
 
